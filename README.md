@@ -1,8 +1,17 @@
 # Alpaga TCG
 
+Ouvrez des boosters afin de collectionner tous les alpagas !
+
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
 This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.
+
+## Téléchargement
+
+- `desktop`: https://drive.google.com/file/d/1cnPL_smqwsHq9jM-WLFW2p4vxSocN7tl/view?usp=sharing
+- `android`: https://drive.google.com/file/d/1Od-ricp_-HFapDESW-UCGnFvMPEvUPhe/view?usp=sharing
+- `ios`: Vous devez compiler par vous même, je sais pas comment faire ¯\_(ツ)_/¯
+- `html`: Impossible
 
 ## Platforms
 
