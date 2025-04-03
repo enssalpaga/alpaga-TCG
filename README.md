@@ -10,7 +10,7 @@ This project was generated with a template including simple application launcher
 
 - `desktop`: https://drive.google.com/file/d/1cnPL_smqwsHq9jM-WLFW2p4vxSocN7tl/view?usp=sharing
 - `android`: https://drive.google.com/file/d/1Od-ricp_-HFapDESW-UCGnFvMPEvUPhe/view?usp=sharing
-- `ios`: Vous devez compiler par vous même, je sais pas comment faire ¯\\_(ツ)_/¯
+- `ios`: Vous devez compiler par vous même, je sais pas comment faire ¯\\_(ツ)_/¯ Cette article pourrait peut-être vous aider : https://libgdx.com/wiki/deployment/deploying-your-application#deploy-to-ios
 - `html`: Impossible
 
 ## Platforms
